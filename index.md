@@ -10,7 +10,7 @@ Nasza siłownia to przestrzeń, która łączy pasję do fitnessu z profesjonaln
 - Trenerzy personalni – Nasi wykwalifikowani trenerzy są gotowi, by służyć Ci fachową pomocą i motywować Cię do działania. Dzięki indywidualnemu podejściu, osiągniesz swoje cele szybciej i bezpieczniej.
 - Zajęcia grupowe – Oferujemy różnorodne zajęcia, takie jak spinning, joga, pilates czy treningi interwałowe, które pozwolą Ci na jeszcze większą różnorodność w treningach.
 - Strefa relaksu – Po ciężkim treningu zapraszamy do strefy relaksu, gdzie możesz się zregenerować i naładować energię.
-- 
+
 Nasza misja
 Naszym celem jest stworzenie miejsca, w którym każdy, bez względu na poziom zaawansowania, może poczuć się komfortowo i osiągnąć swoje cele fitnessowe. Jesteśmy przekonani, że regularna aktywność fizyczna ma ogromny wpływ na zdrowie, samopoczucie i jakość życia, dlatego dbamy o to, abyś mógł rozwijać swoje umiejętności w przyjaznej atmosferze.
 

@@ -1,10 +1,10 @@
-##Witamy na stronie Twojej Siłowni – Miejscu, Gdzie Rozpoczynasz Przemianę!
+## Witamy na stronie Twojej Siłowni – Miejscu, Gdzie Rozpoczynasz Przemianę!
 
 
 
 Nasza siłownia to przestrzeń, która łączy pasję do fitnessu z profesjonalnym podejściem do treningu. Oferujemy szeroki wybór nowoczesnego sprzętu, różnorodne programy treningowe i wsparcie doświadczonych trenerów personalnych, którzy pomogą Ci osiągnąć wymarzoną formę, niezależnie od tego, czy dopiero zaczynasz swoją przygodę z siłownią, czy jesteś doświadczonym sportowcem.
 
-##Co oferujemy?
+## Co oferujemy?
 - Nowoczesny sprzęt – Zainwestowaliśmy w najlepszy sprzęt do ćwiczeń siłowych, cardio i funkcjonalnych, aby zapewnić Ci komfort i skuteczność treningów.
 - Indywidualne plany treningowe – Nasze programy są dostosowane do Twoich celów, poziomu zaawansowania i preferencji. Pomagamy Ci osiągać sukcesy, krok po kroku.
 - Trenerzy personalni – Nasi wykwalifikowani trenerzy są gotowi, by służyć Ci fachową pomocą i motywować Cię do działania. Dzięki indywidualnemu podejściu, osiągniesz swoje cele szybciej i bezpieczniej.

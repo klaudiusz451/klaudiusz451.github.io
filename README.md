@@ -1,2 +1,5 @@
 # klaudiusz451.github.io
-strona
+# Moja strona internetowa
+
+Witaj na mojej stronie! Strona dostępna pod adresem:  
+[https://username.github.io](https://klaudiusz451.github.io)

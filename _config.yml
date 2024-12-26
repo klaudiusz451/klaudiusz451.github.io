@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: Klaudiusz strona
 description: OPIS
+markdown: kramdown

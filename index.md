@@ -11,6 +11,8 @@ Nasza siłownia to przestrzeń, która łączy pasję do fitnessu z profesjonaln
 - Zajęcia grupowe – Oferujemy różnorodne zajęcia, takie jak spinning, joga, pilates czy treningi interwałowe, które pozwolą Ci na jeszcze większą różnorodność w treningach.
 - Strefa relaksu – Po ciężkim treningu zapraszamy do strefy relaksu, gdzie możesz się zregenerować i naładować energię.
 
+
+Kliknij : 
 <details>
   <summary>Technologie</summary>
   - Python
